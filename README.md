@@ -6,9 +6,9 @@ This repo only covers the graph predictor and feature predictor, which are the m
 <br> This repo will be continually updated, and after the official code released, we will re-implement GLoMo according to its official version asap!
 
 <br>**Requirements:**
-python: 3.6
-tensorflow: >=1.4.0
-CUDA-Toolkits: >=8.0
+<br>  python: 3.6
+<br>  tensorflow: >=1.4.0
+<br>  CUDA-Toolkits: >=8.0
 
 <br>**TODO:**
 <br>  0.Modification on the implementation of graph predictor and feature predictor
