@@ -8,7 +8,6 @@ This repo only covers the graph predictor and feature predictor, which are the m
 <br>**Requirements:**
 <br>  python: 3.6
 <br>  tensorflow: >=1.4.0
-<br>  CUDA-Toolkits: >=8.0
 
 <br>**TODO:**
 <br>  0.Modification on the implementation of graph predictor and feature predictor
